@@ -19,6 +19,6 @@
  - :books: Cucumber, TestNG, Rest-Assured
  - :bar_chart: Cucumber MVN Report, Extent Report, Allure Report
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-rahul-kumar&layout=compact)](https://github.com/sseenivasan89/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=me-rahul-kumar&layout=compact)](https://github.com/me-rahul-kumar)
 
 [![N|Solid](https://img.icons8.com/fluent/72/linkedin.png)](https://www.linkedin.com/in/)
