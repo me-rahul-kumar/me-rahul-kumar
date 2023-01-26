@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi I'm Rahul Kumar 👋
 
-<!--
-**me-rahul-kumar/me-rahul-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+N|Solid About Me
+💻 Overall 3.5+ years of experience in IT where working as Software Tester.
+🎓 Bachelor of Engineering.
+💻 Software Tester
+📖 A Learner
+✍️ Blogger
 
-Here are some ideas to get you started:
+N|Solid What I Learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+♨️ Java, JavaScripts
+✅ Selenium Webdriver
+🚀 Postman, Newman
+Ⓜ️ Maven, Node.js
+🕓 Jmeter, Blazemeter
+☁️ Azure DevOps, GitHub, Jenkins
+📚 Cucumber, TestNG, WinAppDriver, Rest-Assured
+📊 Cucumber MVN Report, Extent Report, Allure Report
+Saravanan's GitHub stats
+
+Top Langs
+
+N|Solid N|Solid N|Solid N|Solid N|Solid
