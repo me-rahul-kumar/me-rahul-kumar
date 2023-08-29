@@ -4,7 +4,7 @@
 
 ### ![N|Solid](https://img.icons8.com/metro/2x/administrator-male.png) About Me 
  - :computer: Overall 4+ years of experience in IT where last 3.5+ years working as Software Tester
- - :mortar_board: Bachelor of Engineering.
+ - :mortar_board: B.tech in Mechanical Engineering.
  - 💻 Software Tester
  - :book: A Learner 
 
