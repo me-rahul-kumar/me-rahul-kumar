@@ -4,7 +4,6 @@
 
 ### ![N|Solid](https://img.icons8.com/metro/2x/administrator-male.png) About Me 
  - :computer: Overall 7+ years of experience in Quality Engineering.
- - :mortar_board: B.tech in Mechanical Engineering.
  - 💻 Senior Quality Engineer
  - :book: A Learner 
 
