@@ -3,19 +3,19 @@
 ![](https://komarev.com/ghpvc/?username=me-rahul-kumar&color=brightgreen)
 
 ### ![N|Solid](https://img.icons8.com/metro/2x/administrator-male.png) About Me 
- - :computer: Overall 4+ years of experience in IT where last 3.5+ years working as Software Tester
+ - :computer: Overall 7+ years of experience in Quality Engineering.
  - :mortar_board: B.tech in Mechanical Engineering.
- - 💻 Software Tester
+ - 💻 Senior Quality Engineer
  - :book: A Learner 
 
   
 ### ![N|Solid](https://img.icons8.com/metro/2x/reading.png) What I Learn
- - :hotsprings: Java, JavaScripts, Groovy
- - :white_check_mark: Selenium Webdriver, Katalon Studio
+ - :hotsprings: Java, Groovy, JavaScripts, TypeScripts
+ - :white_check_mark: Playwright, Selenium Webdriver, Rest Assured, Katalon Studio
  - :rocket: Postman, Newman
  - :m: Maven
  - :clock4: Jmeter
- - :cloud: GitHub, GitLab Jenkins
+ - :cloud: GitHub, GitLab Jenkins, Azure DevOps
  - :books: Cucumber, TestNG, Rest-Assured
  - :bar_chart: Cucumber MVN Report, Extent Report, Allure Report
 
